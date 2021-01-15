@@ -10,7 +10,7 @@
 WifiSpeedTester is a Wifi Speed Testing Tool.Its build on python program.
 
 [![python](https://img.shields.io/badge/python-3.9-purple.svg)](https://www.python.org/downloads/release/python-390/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux-purlpe.svg)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux- purlpe.svg)](https://en.wikipedia.org/wiki/Linux)
 
 ### Setup ###
 
