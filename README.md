@@ -20,7 +20,7 @@ WifiSpeedTester is a Wifi Speed Testing Tool.Its build on python program.
 
 + git clone https://github.com/r3k4t/wifispeedtester.git
 + cd wifispeedtester
-+ sudo python wifispeedtester.py
++ sudo python3 wifispeedtester.py
 
 ### Screenshot ###
 
